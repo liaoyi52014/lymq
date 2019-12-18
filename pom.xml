@@ -18,6 +18,7 @@
         <module>provider</module>
         <module>consumer</module>
         <module>register</module>
+        <module>core</module>
     </modules>
 
     <properties>
